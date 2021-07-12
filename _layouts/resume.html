@@ -56,19 +56,7 @@
           <h2>Experience</h2>
         </header>
 
-        {% for job in site.data.experience %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
-        </div><!-- end of resume-item -->
-        {% endfor %}
-
-      </section>
-      <!-- end Experience -->
-      {% endif %}
-
-
+        
       {% if site.resume_section_education %}
       <!-- begin Education -->
       <section class="content-section">
@@ -94,6 +82,19 @@
         {% endfor %}
       </section>
       <!-- end Education -->
+      {% endif %}
+        
+        
+        {% for job in site.data.experience %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Experience -->
       {% endif %}
 
 
@@ -232,7 +233,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">This is the end of the resume, but not all of me... ;-)</p>
+        <p class="footer-line">This is the end of the CV, but only the beginning of knowing about me... ;-)</p>
       </footer>
     
     </div>
