@@ -1,16 +1,16 @@
 # Skills
 # Organizational leadership
 - skill: Programming
-  description: MATLAB, Python
+  description: <ul class="resume-item-list"><li>MATLAB, Python</li></ul>
 
 # Communications strategy
 - skill: Statistical analysis and software
-  description: R, Mplus, SPSS, ...
+  description: <ul class="resume-item-list"><li>R, Mplus, SPSS, ...</li></ul>
 
 # Digital content development and creation
 - skill: Data modelling
-  description: GLM, machine learning algorithm, ...
+  description: <ul class="resume-item-list"><li>GLM, machine learning algorithm, ...</li></ul>
   
   # Digital content development and creation
 - skill: Signal processing and modelling
-  description: EEG, fMRI, physiological signal, ...
+  description: <ul class="resume-item-list"><li>EEG, fMRI, physiological signal, ...</li></ul>
