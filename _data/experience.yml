@@ -6,9 +6,9 @@
   summary: Advisor - Guozhen Zhao <ul class="resume-item-list"><li>Clarified heterogeneity in gaming addiction and its related cognitive mechanisms</li><li>Integrated findings on neural network of gaming addiction via meta-analysis and proposed the key neural network dysfunctions for the first time</li><li>Constructed specific neurocognitive network models for distinct subtypes of behavioral addiction using resting- and task-state neural signals, and established diagnosis system based on the key bio-markers and machine learning</li></ul>
 
 # Director of Digital Stratgy
-- position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- position: Human Stress Detection using Physiological Signal
+  duration:  2021
+  summary: <ul class="resume-item-list"><li>Processed the signals including Galvanic skin response (GSR) and Photoplethysmography (PPG) using Wavelet-based denoising and Butterworth filter by MATLAB;</li><li>Extracted and selected key features using Boruta algorithm (a wrapper-based selection);</li><li>Improved the accuracy of stress detection to 94.4% using Ensemble algorithm based on Multilayer Perceptron, Logistic Regression, Naive Bayes and Support Vector Machine.</li></ul>
 
 
 # Communications Coordinator
