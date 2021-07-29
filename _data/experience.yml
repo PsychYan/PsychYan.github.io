@@ -3,22 +3,22 @@
 - company: Institute of Psychology, Chinese Academy of Sciences
   position: Heterogeneity of Brain Network in Behavioral Addiction (Thesis)
   duration: 2020 &mdash; Present
-  summary: Advisor - Guozhen Zhao <ul class="resume-item-list"><li>Clarified heterogeneity in gaming addiction and its related cognitive mechanisms</li><li>Integrated findings on neural network of gaming addiction via meta-analysis and proposed the key neural network dysfunctions for the first time</li><li>Constructed specific neurocognitive network models for distinct subtypes of behavioral addiction using resting- and task-state neural signals, and established diagnosis system based on the key bio-markers and machine learning</li></ul>
+  summary: Advisor - Guozhen Zhao <ul class="resume-item-list"><li>Clarified heterogeneity in gaming addiction and its related cognitive mechanisms;</li><li>Integrated findings on neural network of gaming addiction via meta-analysis and proposed the key neural network dysfunctions for the first time;</li><li>Constructed specific neurocognitive network models for distinct subtypes of behavioral addiction using resting- and task-state neural signals, and established diagnosis system based on the key bio-markers and machine learning.</li></ul>
 
 # Director of Digital Stratgy
 - position: Human Stress Detection using Physiological Signal
   duration:  2021
-  summary: <ul class="resume-item-list"><li>Processed the signals including Galvanic skin response (GSR) and Photoplethysmography (PPG) using Wavelet-based denoising and Butterworth filter by MATLAB;</li><li>Extracted and selected key features using Boruta algorithm (a wrapper-based selection);</li><li>Improved the accuracy of stress detection to 94.4% using Ensemble algorithm based on Multilayer Perceptron, Logistic Regression, Naive Bayes and Support Vector Machine.</li></ul>
+  summary: <ul class="resume-item-list"><li>Processed the signals including Galvanic skin response (GSR) and Photoplethysmo-graphy (PPG) using Wavelet-based denoising and Butterworth filter by MATLAB;</li><li>Extracted and selected key features using Boruta algorithm (a wrapper-based selection);</li><li>Improved the accuracy of stress detection to 94.4% using Ensemble algorithm based on Multilayer Perceptron, Logistic Regression, Naive Bayes and Support Vector Machine.</li></ul>
 
 
 # Communications Coordinator
-- position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- position: Affective Computing using Behavioral Tasks
+  duration:   2020  &mdash; 2021
+  summary: <ul class="resume-item-list"><li>Designed specific cooperative tasks to evaluate relationship quality within dyads effectively;</li><li>Developed a behavior-based risk assessment system to recognize individuals with high risk of violence and suicide using SVM, with an overall accuracy above 85% in a large sample.</li></ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Neuroscience Research Institute, Peking University
+  position: Innovative Talents Training Project
+  duration:   2017  &mdash; 2019
+  summary: Advisor: Fengyu Liu <ul class="resume-item-list"><li>Neuroscience experimental technologies training, e.g., optogenetics, intracranial electroencephalography (iEEG), ...</li><li>l	Completed a literature review on neural mechanisms of chronic pain.</li></ul>
