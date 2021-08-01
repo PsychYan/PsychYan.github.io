@@ -8,7 +8,7 @@
 # Director of Digital Stratgy
 - position: Human Stress Detection using Physiological Signal
   duration:  2021
-  summary: <ul class="resume-item-list"><li>Validated VR-based high-altitude scenes and tasks in stress elicitation;</li><li>Processed the signals including Galvanic skin response (GSR) and Photoplethysmography (PPG) using Wavelet-based denoising, Butterworth filter (feature extraction) and Boruta algorithm (wrapper-based feature selection);</li><li>Improved the accuracy of stress detection to 94.4% using Ensemble algorithm based on Multilayer Perceptron, Logistic Regression, Naive Bayes and Support Vector Machine (SVM).</li></ul>
+  summary: <ul class="resume-item-list"><li>Validated VR-based high-altitude scenes and tasks in stress elicitation;</li><li>Processed the signals including Galvanic skin response (GSR) and Photoplethysmo-graphy (PPG) using Wavelet-based denoising, Butterworth filter (feature extraction) and Boruta algorithm (wrapper-based feature selection);</li><li>Improved the accuracy of stress detection to 94.4% using Ensemble algorithm based on Multilayer Perceptron, Logistic Regression, Naive Bayes and Support Vector Machine (SVM).</li></ul>
 
 
 # Communications Coordinator
