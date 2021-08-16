@@ -10,7 +10,11 @@
 # Digital content development and creation
 - skill: Data modelling
   description: <ul class="resume-item-list"><li>GLM, machine learning algorithm, ...</li></ul>
+
+# Digital content development and creation
+- skill: Deep learning framework
+  description: <ul class="resume-item-list"><li>Pytorch, TensorFlow, ...</li></ul>
   
-  # Digital content development and creation
+# Digital content development and creation
 - skill: Signal processing and modelling
   description: <ul class="resume-item-list"><li>EEG, fMRI, physiological signal, ...</li></ul>
