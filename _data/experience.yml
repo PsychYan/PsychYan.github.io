@@ -1,24 +1,33 @@
 # Jobs
 # VP of Global Communications
 - company: Institute of Psychology, Chinese Academy of Sciences
-  position: Heterogeneity of Brain Network in Behavioral Addiction (Thesis)
-  duration: 2020 &mdash; Present
-  summary: Advisor - Guozhen Zhao <ul class="resume-item-list"><li>Clarified heterogeneity in gaming addiction and its related cognitive mechanisms;</li><li>Integrated findings on neural network of gaming addiction via meta-analysis and proposed the key neural network dysfunctions for the first time;</li><li>Constructed specific neurocognitive network models for distinct subtypes of behavioral addiction using resting- and task-state neural signals, and established diagnosis system based on the key bio-markers and machine learning.</li></ul>
+  position: Heterogenous Neural Modelling and Diagnosis of Addiction (Thesis)
+  duration: 2019 &mdash; Present
+  summary: Advisor - Dr. Guozhen Zhao; Collaborator - Dr. Qi Li <ul class="resume-item-list"><li>Clarified heterogeneity and related cognitive mechanisms among individuals with behavioral addiction using behavioral tasks, ERP and functional brain network analysis;</li><li>Applied Multi-level Kernel Density Analysis to integrate the findings on abnormal functional networks, provided the first meta-analytic evidence for large-scale dysfunctions;</li><li>Constructed specific topological network using resting-state EEG recording combined with Generative Network Modelling to investigate the heterogeneity in parameters' view;</li><li>To establish explicable precise diagnostic system based on priori and Deep Network.</li></ul>
 
 # Director of Digital Stratgy
-- position: Human Stress Detection using Physiological Signal
-  duration:  2021
-  summary: <ul class="resume-item-list"><li>Validated VR-based high-altitude scenes and tasks in stress elicitation;</li><li>Processed the signals including Galvanic skin response (GSR) and Photoplethysmo-graphy (PPG) using Wavelet-based denoising, Butterworth filter (feature extraction) and Boruta algorithm (wrapper-based feature selection);</li><li>Improved the accuracy of stress detection to 94.4% using Ensemble algorithm based on Multilayer Perceptron, Logistic Regression, Naive Bayes and Support Vector Machine (SVM).</li></ul>
+- position: Wearable-device based Human Stress Detection (Major participant)
+  duration:  2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Validated VR-based high-altitude scenes and tasks in stress elicitation;</li><li>Processed physiological signals (e.g., GSR and PPG) using Wavelet-based denoising, Fourier transformation and Butterworth filter (for feature extraction from frequency domain);</li><li>Improved the accuracy of stress detection to 94.4% using randomness-based feature selection and Ensemble method based on traditional algorithms including MLP, LR, NB and SVM.</li></ul>
 
 
 # Communications Coordinator
-- position: Affective Computing using Behavioral Tasks
-  duration:   2020  &mdash; 2021
-  summary: <ul class="resume-item-list"><li>Designed specific cooperative tasks to evaluate relationship quality within dyads effectively;</li><li>Developed a behavior-based risk assessment system to recognize individuals with high risk of violence and suicide using SVM, with an overall accuracy above 85% in a large sample.</li></ul>
+- position: BCI-based Emotion Recognition and Interaction (Data Analyst; Author)
+  duration: 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Exploring the internal structure and multi-label recognition of positive emotions based on graph theory and nonlinear manifold learning.</li></ul>
 
+# Communications Coordinator
+- position: Behavior-based Affective Computing and Appraisal (Major participant)	
+  duration: 2019 &mdash; 2021
+  summary: <ul class="resume-item-list"><li>Designed specific cooperative tasks based on Psychopy (Python) and PTB (Matlab) to evaluate and intervene relationship quality within dyads;</li><li>Constructed an adaptive closed-loop architecture with EEG-based evaluation algorithm and hierarchical cooperative tasks to intervene friendship quality automatically; (patent pending)</li><li>Developed a risk assessment system to recognize individuals with high risk of violence and suicide using machine learning techniques, with an accuracy above 85% in a large sample.</li></ul>
 
 # Communications Coordinator
 - company: Neuroscience Research Institute, Peking University
-  position: Innovative Talents Training Project
+  position: Innovative Talents Training Project (Trainee)
   duration:   2017  &mdash; 2019
-  summary: Advisor - Fengyu Liu <ul class="resume-item-list"><li>Neuroscience experimental technologies training, e.g., optogenetics, intracranial electroencephalography (iEEG), ...</li><li>Completed a literature review on neural mechanisms of chronic pain.</li></ul>
+  summary: Advisor - Fengyu Liu <ul class="resume-item-list"><li>Neuroscience experimental technologies training, e.g., optogenetics, intracranial electroencephalography (iEEG), fMRI...</li><li>Completed a literature review on neural mechanisms of chronic pain.</li></ul>
+
+- company: Risk Perception and Decision-Making Lab, Peking University
+  position: Experiments and Weekly Seminar (Participant)
+  duration:   2017  &mdash; 2018
+  summary: <ul class="resume-item-list"><li>Experimenter; literature discussion; brainstormed the study design.</li></ul>
