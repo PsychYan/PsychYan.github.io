@@ -1,9 +1,14 @@
 # Jobs
+- company: University of California, Los Angeles
+  position: EEG Data Modelling (Remotely)
+  duration: Dec. 2021 &mdash;
+  summary: Advisor - Prof. Mayank Mehta <ul class="resume-item-list"><li>To build a classifier based on EEG data and Temporal Convolution Network to investigate different cognitive mechanisms among different cognitive tasks.</li></ul>
+
 # VP of Global Communications
 - company: Institute of Psychology, Chinese Academy of Sciences
   position: Heterogenous Neural Modelling and Diagnosis of Addiction (Thesis)
   duration: 2019 &mdash; Present
-  summary: Advisor - Dr. Guozhen Zhao; Collaborator - Dr. Qi Li <ul class="resume-item-list"><li>Clarified heterogeneity and related cognitive mechanisms among individuals with behavioral addiction using behavioral tasks, ERP and functional brain network analysis;</li><li>Applied Multi-level Kernel Density Analysis to integrate the findings on abnormal functional networks, provided the first meta-analytic evidence for large-scale dysfunctions;</li><li>Constructed specific topological network using resting-state EEG recording combined with Generative Network Modelling to investigate the heterogeneity in parameters' view;</li><li>To establish explicable precise diagnostic system based on priori and Deep Network.</li></ul>
+  summary: Supervisor - Dr. Guozhen Zhao; Collaborator - Dr. Qi Li <ul class="resume-item-list"><li>Clarified heterogeneity and related cognitive mechanisms among individuals with behavioral addiction using behavioral tasks, ERP and functional brain network analysis;</li><li>Applied Multi-level Kernel Density Analysis to integrate the findings on abnormal functional networks, provided the first meta-analytic evidence for large-scale dysfunctions;</li><li>Constructed specific topological network using resting-state EEG recording combined with Generative Network Modelling to investigate the heterogeneity in parameters' view;</li><li>To establish explicable precise diagnostic system based on priori and Deep Network.</li></ul>
 
 # Director of Digital Stratgy
 - position: Wearable-device based Human Stress Detection (Major participant)
